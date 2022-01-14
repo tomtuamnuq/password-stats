@@ -183,8 +183,8 @@ cython_debug/
 
 
 # large password database files (due to githubs limit of 100 MB)
-# Password_Files/Orig/*
-# Password_Files/Realhuman/realhuman_phill.txt
+Password_Files/Orig/*
+Password_Files/Realhuman/realhuman_phill.txt
 Password_Files/PW_with_sc_list
 Password_Files/Realhuman_with_sc_list
 
